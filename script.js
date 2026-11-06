@@ -46,4 +46,3 @@
 .path-orbit span{font-size:15px;margin-bottom:3px;color:#e8dcff}
 .path-pill{position:absolute;background:white;border:1px solid #e5d9f7;color:#5a3587;border-radius:20px;padding:5px 9px;font-size:8px;font-weight:700;box-shadow:0 4px 10px #4b246d12}
 .path-pill-one{top:16px;left:12px}.path-pill-two{right:9px;top:22px}.path-pill-three{bottom:12px;left:50%;transform:translateX(-50%)}
-
